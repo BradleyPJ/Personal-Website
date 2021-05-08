@@ -1,6 +1,7 @@
 // vite.config.js
-module.exports = {
+export default {
+  root: 'src/',
   build: {
-    outDir: 'build'
+    outDir: '../dist'
   }
 }

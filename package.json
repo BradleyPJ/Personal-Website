@@ -2,9 +2,9 @@
   "name": "vite-tailwindcss-bundle",
   "version": "0.0.1",
   "scripts": {
-    "dev": "vite src/",
-    "build": "vite build src/",
-    "serve": "vite preview src/"
+    "dev": "vite ",
+    "build": "vite build ",
+    "serve": "vite preview "
   },
   "devDependencies": {
     "autoprefixer": "^10.2.5",
